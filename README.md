@@ -6,7 +6,7 @@ It magically transforms your terminal into a rainbow!! <br />
 Impress your friends, family, dog, and cat!!
 
 ## How does it Work?? ##
-Magic! <br />
+**Magic!** <br />
 I have to give credit to [Command Line Magic, @climagic](https://twitter.com/climagic) for the bash script <br />
 Original [Tweet](https://twitter.com/climagic/statuses/368397042768293888)
 
