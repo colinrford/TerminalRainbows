@@ -13,6 +13,7 @@ Original [Tweet](https://twitter.com/climagic/statuses/368397042768293888)
 ## How do I Gain this Magical Power?? ##
 Fork! <br />
 Clone! <br />
+Execute! <br />
 
 ## How to Install ##
 ### In all seriousness ###
