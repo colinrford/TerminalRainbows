@@ -13,8 +13,18 @@ Original [Tweet](https://twitter.com/climagic/statuses/368397042768293888)
 ## How do I Gain this Magical Power?? ##
 Fork! <br />
 Clone! <br />
-sudo cp rainbow.sh to /usr/bin/rainbows !! <br />
-Or name it whatever!
+
+## How to Install ##
+### In all seriousness ###
+* Clone or Fork (then clone) the repo
+* You can simply run the rainbow.sh program - it'll execute from there
+* If you want to generate rainbows from anywhere in your system - i have a .bashrc install 
+    * run install.sh - this script just appends the funcion 'rainbow' to your .bashrc file
+* If you save the rainbow.sh script somewhere, you can add an alias like
+    alias rainbow="$HOME/.rainbow
+* Everyone's system is different - so, these (should) work for most people using bash 
+    * But don't contact me if something breaks, because as much as I'd want to help you - I probably don't know how
+* Enjoy! 
 
 ## Like it?! ##
 Awesome! <br />
