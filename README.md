@@ -22,14 +22,15 @@ Clone! <br />
     * run install.sh - this script just appends the funcion 'rainbow' to your .bashrc file
 * If you save the rainbow.sh script somewhere, you can add an alias like
     alias rainbow="$HOME/.rainbow
+* Make sure to restart your teminal (or system?) so the .bashrc changes take effect
 * Everyone's system is different - so, these (should) work for most people using bash 
-    * But don't contact me if something breaks, because as much as I'd want to help you - I probably don't know how
+    * But, I can't gaurntee that it'll work for everyone - for sure make sure your .bashrc looks okay after execution
 * Enjoy! 
 
 ## Like it?! ##
 Awesome! <br />
-Contribute! I love me some rainbow magic <br />
-Also, let me know! I like knowing things!
+Let me know! I like knowing things! <br />
+Also, Contribute! I love more and better rainbow magic <br />
 
 > Written by [Ed Flanagan](http://www.linkedin.com/in/edflanagan0)<br />
 > Not Spel Checked by Ed Flanagan
