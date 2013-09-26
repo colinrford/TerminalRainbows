@@ -24,6 +24,7 @@ Execute! <br />
 * If you save the rainbow.sh script somewhere, you can add an alias like
     alias rainbow="$HOME/.rainbow
 * Make sure to restart your teminal (or system?) so the .bashrc changes take effect
+* After the reset - call 'rainbow' and (hopefully) your terminal will now be filled with colors so bright
 * Everyone's system is different - so, these (should) work for most people using bash 
     * But, I can't gaurntee that it'll work for everyone - for sure make sure your .bashrc looks okay after execution
 * Enjoy! 
