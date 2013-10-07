@@ -35,4 +35,4 @@ Let me know! I like knowing things! <br />
 Also, Contribute! I love more and better rainbow magic <br />
 
 > Written by [Ed Flanagan](http://www.linkedin.com/in/edflanagan0)<br />
-> Not Spel Checked by Ed Flanagan
+> Not Spell Checked by Ed Flanagan
